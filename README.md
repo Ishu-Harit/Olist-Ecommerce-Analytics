@@ -89,7 +89,7 @@ Written in MySQL covering 3 complexity levels:
 
 ## Dashboard Preview
 
-![Dashboard](dashboard_preview.png)
+[View Dashboard PDF](Olist_Dashboard.pdf)
 
 ---
 
