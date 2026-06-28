@@ -106,6 +106,8 @@ Written in MySQL covering 3 complexity levels:
 ## How to Run
 
 1. Download dataset from Kaggle (link above)
-2. Run `olist_cleaning.ipynb` to clean data and load into MySQL
-3. Open `Olist_Dashboard.pbix` in Power BI Desktop
-4. Connect to your local MySQL database
+2. Open `olist_cleaning.ipynb` in Jupyter Notebook and run all cells
+3. Ensure MySQL is running locally on port 3306
+4. The notebook automatically loads cleaned data into MySQL
+5. Open `Olist_Dashboard.pdf` to view the dashboard
+6. To interact with the dashboard, open `Olist_Dashboard.pbix` in Power BI Desktop and reconnect to your local MySQL instance
